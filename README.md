@@ -7,4 +7,4 @@ then just compile and run
 $ gcc donut.c && ./a.out
 
 it looks best with white text and black background.
-#Enjoy! ^-^
+# Enjoy! ^-^
