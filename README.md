@@ -7,4 +7,5 @@ then just compile and run
 $ gcc donut.c && ./a.out
 
 it looks best with white text and black background.
+How donut math works https://www.a1k0n.net/2011/07/20/donut-math.html.
 # Enjoy! ^-^
